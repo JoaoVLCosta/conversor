@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">conversor</string>
+    <string name="autor">JOÃO VITOR LIMA COSTA - RA: 1110482313015</string>
+
+    <string name="bt_conv">Converter</string>
+    <string name="place_holder">Insira o valor</string>
+</resources>
